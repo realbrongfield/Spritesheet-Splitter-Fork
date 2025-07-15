@@ -1,3 +1,7 @@
+# [FORK:] make sure not to use any weird combos, and the bouncy text will be fine ;)
+
+
+
 # [UPDATE] This tool is currently deprecated and it's functionality has already been added into the spritesheet and xml generator.
 A bit of a late update, but the spritesheet and xml generator already supports splitting spritesheets. Use that tool instead: <a href="https://github.com/UncertainProd/FnF-Spritesheet-and-XML-Maker">Spritesheet and XML generator for FNF</a>
 
